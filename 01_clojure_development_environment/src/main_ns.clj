@@ -4,7 +4,7 @@
 
 (defn hello-message
   [name]
-  (str "Hello " name))
+  (str "Hello " name "!"))
 
 (defn -main
   [& args]
